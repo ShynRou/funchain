@@ -1,1 +1,3 @@
-funchain
+# funchain
+
+logical function chaining util
