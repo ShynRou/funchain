@@ -1,0 +1,17 @@
+{
+  "name": "funchain",
+  "version": "1.0.0",
+  "description": "logical function chaining util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "javascript",
+    "function",
+    "chaining",
+    "chain"
+  ],
+  "author": "Dustin Hagemeier",
+  "license": "GPL-3.0"
+}
